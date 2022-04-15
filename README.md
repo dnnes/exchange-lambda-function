@@ -1,1 +1,1 @@
-The AWS Lambda function deployed from project API rest-exchanges
+The AWS Lambda function deployed in API rest-exchanges project.
